@@ -5,6 +5,8 @@ A Telegram bot that keeps a community clean and helps it grow:
 
 Built for crypto/Web3 communities, online courses and any group that suffers from bots and spam.
 
+<p align="center"><img src="docs/demo.gif" alt="Bot demo: captcha, anti-spam, referrals" width="420"></p>
+
 ## Features
 
 **🛡 Verification**
